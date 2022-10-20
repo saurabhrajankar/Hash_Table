@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\bin\Debug\UC1 -Find_Frequancy_Of_Words.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\bin\Debug\UC1 -Find_Frequancy_Of_Words.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\bin\Debug\UC1 -Find_Frequancy_Of_Words.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\obj\Debug\UC1-Find_Frequancy_Of_Words.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\obj\Debug\UC1-Find_Frequancy_Of_Words.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\obj\Debug\UC1-Find_Frequancy_Of_Words.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\obj\Debug\UC1 -Find_Frequancy_Of_Words.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Hash_Table\UC1 -Find_Frequancy_Of_Words\obj\Debug\UC1 -Find_Frequancy_Of_Words.pdb
